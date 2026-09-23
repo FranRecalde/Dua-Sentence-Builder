@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Spanish Sentence Builder",
+  "description": "Interactive MFL classroom sentence builder with Spanish speech synthesis, smartboard drag-and-drop, verification drop zone, teacher view preferences, and tiered scaffolding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
